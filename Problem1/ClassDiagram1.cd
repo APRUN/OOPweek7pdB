@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Problem1.BL.Cell">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAgAAAAAAgAAAIAAAAAAAYAAgAAAAYAA=</HashCode>
+      <FileName>BL\Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem1.BL.Grid">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAABAABAAAgAAAgAAAAAAAAAAAAAAAAAAAAOAAUE=</HashCode>
+      <FileName>BL\Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem1.BL.Ghost">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAAASEAAAIAgCACAAABAgAAAQAIQBAAAKAQIAA4AA=</HashCode>
+      <FileName>BL\Ghost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Problem1.BL.Pacman">
+    <Position X="9" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAIAAAgACAAAIBAAAAAAAAAAIQAAAAIAAYAA=</HashCode>
+      <FileName>BL\Pacman.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
